@@ -14,6 +14,6 @@ https://www.xzone.cz/download/rw_patch_cz.exe
 
 Chyby
 <br/>
--pro hraní bude třeba vkládat 3 virtuální CD. K tomu stačí jednoduchý portable program "PortableWinCDEmu". Pokud se někdy najde crack nebo EXE soubor vyžadující vložené pouze 1 DVD, tak by to bylo lepší...
+-pro hraní bude třeba vkládat CD (k tomu stačí jednoduchý portable program "PortableWinCDEmu" - je možné je vložit všechny najednou do tří virtuálních mechanik). Pokud se někdy najde crack nebo EXE soubor vyžadující vložené pouze 1 DVD, tak by to bylo lepší...
 <br/>
 https://github.com/hornster02/Runaway-2001-CZ/raw/main/mini-image.rar
