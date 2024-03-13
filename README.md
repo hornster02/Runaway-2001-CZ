@@ -18,16 +18,6 @@ https://www.xzone.cz/download/rw_patch_cz.exe
 <br/>
 <br/>
 <br/>
-Autohotkey v1.1 https://github.com/hornster02/Runaway-2001-CZ/raw/main/script.rar
-<br/>
--ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí a ani reagovat)
-
--kolečko myši nahoru - ESC
-
--kolečko myši dolu - tab (inventář)
-<br/>
-<br/>
-<br/>
 Chyby
 <br/>
 -pro hraní bude třeba vkládat CD (k tomu stačí jednoduchý portable program "PortableWinCDEmu" - je možné je vložit všechny najednou do tří virtuálních mechanik). Pokud se někdy najde crack nebo EXE soubor vyžadující vložené pouze 1 DVD, tak by to bylo lepší...
@@ -45,3 +35,19 @@ https://github.com/hornster02/Runaway-2001-CZ/raw/main/mini-image.rar
 ```c:\BES\BES.exe -J "c:\Runaway A Road Adventure\Runaway.exe" 20 -m```
 <br/>
 I tento problémový bod může vyřešit jiný EXE soubor
+<br/>
+<br/>
+<br/>
+Autohotkey v1.1 https://github.com/hornster02/Runaway-2001-CZ/raw/main/script.rar
+<br/>
+-ESC (držet 1 vteřinu) - vypnout hru (nemusí být v popředí a ani reagovat)
+
+-kolečko myši nahoru - ESC
+
+-kolečko myši dolu - tab (inventář)
+<br/>
+<br/>
+<br/>
+Další verze CZ - velikost 3GB
+<br/>
+https://steamcommunity.com/sharedfiles/filedetails/?id=3156354546
